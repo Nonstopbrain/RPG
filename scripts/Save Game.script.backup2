@@ -1,0 +1,3 @@
+fade_out(5);
+save_game();
+fade_in(5);

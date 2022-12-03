@@ -1,3 +1,4 @@
-fade_out(5);
+fade_out(3);
 save_game();
-fade_in(5);
+display_message("Saving Game.....");
+fade_in(3);
