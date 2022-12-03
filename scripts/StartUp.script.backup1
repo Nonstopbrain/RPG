@@ -1,0 +1,1 @@
+load_map("Home", coord[0, 0, 0], SOUTH);
