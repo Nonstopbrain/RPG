@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Key",
+      "description": "Sister's Key",
+      "tags": [],
+      "stackable": false,
+      "droppable": false,
+      "image": "Key.png",
+      "usable": true,
+      "num_of_uses": 0,
+      "script": "Key quest"
+    }
+  ],
+  "localized": false
+}

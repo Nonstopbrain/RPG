@@ -1,0 +1,18 @@
+{
+  "quests": [
+    {
+      "id": "QUEST_0001",
+      "name": "Find Sister",
+      "description": "Find Sister in town",
+      "tags": [],
+    },
+    {
+      "id": "QUEST_0002",
+      "name": "Find Key",
+      "description": "Go home to find key",
+      "tags": [],
+      "complete_script": "Key quest",
+    }
+  ],
+  "localized": false
+}

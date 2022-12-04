@@ -1,2 +1,7 @@
-load_map("Home", coord[0, 0, 0], SOUTH);
-fade_in(5);
+load_map("Home", coord[1, -16, 0], SOUTH);
+play_music("game background.ogg");
+give_quest("QUEST_0001");
+show_widget("Quest");
+global.property["quest_line"] = quest["QUEST_0001"].description;
+widget["Quest"].element["0001"].text = global.property["quest_line"];
+display_message("player.property[\"inventory\"]");

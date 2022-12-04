@@ -1,0 +1,2 @@
+global.property["quest_line"] = "QUEST_0001";
+widget["Quest"].element["0001"].text = quest[$quest_line].description;

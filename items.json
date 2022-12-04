@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Key",
+      "description": "Sister's Key",
+      "tags": [],
+      "stackable": false,
+      "tool_item": false,
+      "tool_item_range": 1,
+      "tool_item_script_mode": "entity",
+      "droppable": false,
+      "image": "Key.png",
+      "usable": false
+    }
+  ],
+  "localized": false
+}

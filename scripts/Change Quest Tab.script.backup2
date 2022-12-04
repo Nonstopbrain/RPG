@@ -1,0 +1,1 @@
+$my_variable = quest["QUEST_0001"].description;

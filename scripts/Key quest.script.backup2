@@ -1,0 +1,4 @@
+if player.inventory contains "ITEM_0001" then
+  complete_quest("QUEST_0002");
+  give_quest("QUEST_0001");
+end;

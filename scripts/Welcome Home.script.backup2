@@ -1,5 +1,3 @@
 if player.coord == coord[2, -14, 0] then
-  display_message("Hello, " + global.property["player_name"] + "!");
-else
-  display_message(player.coord);
+  display_message("Welcome home " + global.property["player_name"] + "!");
 end;

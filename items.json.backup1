@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Key",
+      "description": "Sister's Key",
+      "tags": [],
+      "stackable": false,
+      "droppable": false,
+      "image": "Key.png",
+      "usable": false
+    }
+  ],
+  "localized": false
+}
