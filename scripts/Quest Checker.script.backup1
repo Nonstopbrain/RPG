@@ -1,3 +1,0 @@
-if entity["id"] contains "ITEM_0001" then
-  execute_script("Key quest", false);
-end;

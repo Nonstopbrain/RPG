@@ -11,6 +11,7 @@
       "name": "Find Key",
       "description": "Go home to find key",
       "tags": [],
+      "complete_script": "Key quest",
     }
   ],
   "localized": false

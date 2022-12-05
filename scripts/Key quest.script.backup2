@@ -1,4 +1,8 @@
-if player.inventory contains "ITEM_0001" then
-  complete_quest("QUEST_0002");
-  give_quest("QUEST_0001");
+$check = inverse(player.inventory contains "ITEM_0001");
+while $check do
+	wait(0.5);
+	$check = inverse(player.inventory contains "ITEM_0001");
 end;
+complete_quest("QUEST_0002");
+give_quest("QUEST_0001");
+changeQuest("QUEST_0001");

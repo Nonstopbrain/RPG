@@ -1,2 +1,0 @@
-global.property["quest_line"] = quest[$quest_line].description;
-widget["Quest"].element["0001"].text = quest[$quest_line].description;
