@@ -3,4 +3,4 @@ play_music("game background.ogg");
 give_quest("QUEST_0001");
 show_widget("Quest");
 changeQuest("QUEST_0001");
-//execute_script("Change Quest Tab", false);
+give_item("ITEM_0002", 1, self);
