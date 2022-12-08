@@ -3,5 +3,4 @@ play_music("game background.ogg");
 give_quest("QUEST_0001");
 show_widget("Quest");
 changeQuest("QUEST_0001");
-fail_quest("QUEST_0001");
-give_item("ITEM_0001", 1);
+give_item("ITEM_0002", 1, self);

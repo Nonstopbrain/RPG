@@ -1,5 +1,4 @@
 load_map("Home", coord[1, -16, 0], SOUTH);
-play_music("game background.ogg");
 give_quest("QUEST_0001");
 show_widget("Quest");
 changeQuest("QUEST_0001");
