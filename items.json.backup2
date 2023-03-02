@@ -23,7 +23,7 @@
       "tags": ["weapon"],
       "stackable": false,
       "equippable": true,
-      "effects": [{"amount":15,"stat":"attack","type":"stat_boost"}],
+      "effects": [{"amount":0,"stat":"attack","type":"stat_boost"}],
       "weapon": true,
       "weapon_type": "melee",
       "weapon_min_damage": 15,

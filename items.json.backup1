@@ -28,7 +28,7 @@
       "weapon_type": "melee",
       "weapon_min_damage": 15,
       "weapon_max_damage": 20,
-      "weapon_attack_anim": "sword",
+      "weapon_attack_anim": "attack",
       "object": "Sword",
       "craftable": false,
       "tool_item": false,
